@@ -11,7 +11,7 @@ This repository contains the code for fine-tuning the Llama3 model on the Nairal
 
 ### Dataset Description
 
-The dataset used for fine-tuning the model is the [Nairaland Question-Answer Dataset](saheedniyi/Nairaland_v1_instruct_512QA). It consists of questions and answers scraped from the Nairaland forum.
+The dataset used for fine-tuning the model is the [Nairaland Question-Answer Dataset](https://huggingface.co/datasets/saheedniyi/Nairaland_v1_instruct_512QA). It consists of questions and answers scraped from the Nairaland forum.
 
 ## Files
 
